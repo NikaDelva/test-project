@@ -1,0 +1,9 @@
+.container {
+    width: 734px;
+}
+
+.slick-track {
+    width: 1360px;
+    display: flex;
+    column-gap: 20px;
+}
